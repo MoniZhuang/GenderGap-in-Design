@@ -19,7 +19,7 @@ This page is a list of info about the gender gap in design and resources that co
 
 ## 2. Solutions
 ### More Reports
-* [Women in the Workplace 2019 (by McKinsey & Company)](https://wiw-report.s3.amazonaws.com/Women_in_the_Workplace_2019.pdf) An increasing number of companies are seeing the value of having more women in leadership, and they’re proving that they can make progress on gender diversity. This is an important step in the right direction.
+* [Women in the Workplace 2019 (by McKinsey & Company)](https://womenintheworkplace.com/) An increasing number of companies are seeing the value of having more women in leadership, and they’re proving that they can make progress on gender diversity. This is an important step in the right direction.
 * [The Female Leadership Crisis](https://www.newonline.org/sites/default/files/files/NEW_Leadership_Crisis_Digitalv3.pdf) Create a compelling value proposition for women and they will stay. Stay the  course and consumers and employees will wonder why your C-suite looks like it.
 did 50 years ago.
 ### Role Models
